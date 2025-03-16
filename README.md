@@ -31,8 +31,11 @@ If the computer wins, its score increases
 The game continues until the user chooses to quit
 
 # 🔧 Key Functions Used
+
 🔹 random.choice(choices) → Selects a random option for the computer
+
 🔹 lower() → Converts user input to lowercase for case-insensitive comparison
+
 🔹 while True: → Runs the game in a loop until the user quits
 
 
